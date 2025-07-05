@@ -93,7 +93,7 @@ This virtual experience was developed by Quantium to help aspiring analysts gain
 
 **Sukeerthi**  
 📧 Email: [sukeerthi8.kr@gmail.com]  
-🔗 [LinkedIn](linkedin.com/in/sukeerthi-kandukuri/)  
+🔗 [LinkedIn](https://linkedin.com/in/sukeerthi-kandukuri/)  
 🐙 [GitHub](https://github.com/kandukurisukeerthi)
 
 ---
