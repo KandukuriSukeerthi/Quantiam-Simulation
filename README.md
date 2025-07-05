@@ -76,6 +76,14 @@ Objectives:
 
 ---
 
+---
+
+## 📜 Certificate
+
+[View Certificate](https://github.com/KandukuriSukeerthi/Quantiam-Simulation/blob/main/Quantium_JobSimulation_Certificate.pdf)
+
+This certificate confirms the successful completion of the **Quantium Virtual Data Analytics Experience**, validating hands-on skills in customer analytics, data-driven experimentation, and business insight generation using real-world datasets.
+
 ## 🖼️ Preview
 
 Click to view the final presentation:  
